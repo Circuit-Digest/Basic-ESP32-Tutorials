@@ -1,7 +1,7 @@
 
 # [Interfacing OLED display with ESP32](https://circuitdigest.com/microcontroller-projects/displaying-text-and-characters-oled-module-with-esp32)
 
-<img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/e85cd008840ff9243e949d8de8c4675c9ec71bc8/Interfacing%20OLED%20display%20with%20ESP32/2022-06-13.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/c3636e577619364406f30a2f7a3ba78ee5f55e47/Interfacing%20OLED%20display%20with%20ESP32/ESP32-OLED-Display-Module-Tutorial.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
