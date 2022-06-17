@@ -1,5 +1,5 @@
 
-# [ESP32 Interrupts](https://circuitdigest.com/microcontroller-projects/)
+# [ESP32 Interrupts]([https://circuitdigest.com/microcontroller-projects/](https://circuitdigest.com/microcontroller-projects/esp32-interrupt))
 
 <img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/eb11fe6eee371c00dee686f5862c4f9329251140/ESP32%20Interrupts/Tittle.png" width="" alt="alt_text" title="image_tooltip">
 <br>
