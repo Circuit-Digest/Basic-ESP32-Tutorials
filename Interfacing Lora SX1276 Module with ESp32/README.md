@@ -1,6 +1,6 @@
-# [Interfacing SIM800L with ESP32](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing Lora SX1276 Module with ESp32](https://circuitdigest.com/microcontroller-projects/)
 
-<img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/main/Interfacing%20SIM800L%20with%20ESP32/images/title%20_image.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/main/Interfacing%20Lora%20SX1276%20Module%20with%20ESp32/images/title%20_image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -13,13 +13,17 @@
 <br>
 <br>
 
- Let's say you are trying to build a remote IoT data monitoring system, the first problem you will face is how to get a 
- proper internet connection for your device. Whether you want to get notified when someone enters your room or you want 
- to water your plants from miles away, the internet is always a problem. In this type of situation, SIM800L GSM/GPRS Module
- can come in very handy. SIM800L is a very compact GSM/GPRS module that can be integrated into a lot of IoT projects due to 
- its compact size and flexibility. This module can do anything that a normal cell phone can do like text message, make and 
- receive phone calls and connect to the internet through GPRS and on top of that, it supports quad-band GSM/GPRS means it
- can work anywhere in the world.
+When we are talking about LoRa it's been more than 10 years since its first official launch and since that day LoRa is getting 
+increasingly popular day by day.  With so many IoT devices popping around this, this low power long-range wireless communication 
+could fit into a plethora of applications. It is expected that by 2025 we will have 29 Billion devices connected to the internet. 
+To give you an idea that is more than four times the population of earth today. 
+
+So in this tutorial we have decided to set up the populer HDPA13A that is a SX1276 LoRa end Node with ESP32 and send data to the 
+TTN network, to do so we will be using the RG186 LoRa Gateway which we learned how to set up in one of our previous projects. 
+We will also be setting up the populer SX1276, 868MHz LoRa end node module that we will configure to work with INDIA’s Standards. 
+Finally we will be discussing the problems we have faced and the solution we found to establish communication with The Things Network. 
+so without further ado let's get right into it.
+
 
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
