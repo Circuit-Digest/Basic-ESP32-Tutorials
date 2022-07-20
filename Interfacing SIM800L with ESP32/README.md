@@ -1,4 +1,4 @@
-# [ESP32 Timers](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing SIM800L with ESP32](https://circuitdigest.com/microcontroller-projects/)
 
 <img src="https://github.com/Circuit-Digest/Basic-ESP32-Tutorials/blob/main/Interfacing%20SIM800L%20with%20ESP32/images/title%20_image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
@@ -21,7 +21,6 @@
  receive phone calls and connect to the internet through GPRS and on top of that, it supports quad-band GSM/GPRS means it
  can work anywhere in the world.
 
-<br>
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
