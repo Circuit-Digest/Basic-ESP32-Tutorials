@@ -12,5 +12,7 @@ Drones rely on various sensors to maintain stable flight, especially when GPS is
 </p>
 The PMW3901 is a small, low-power optical flow sensor that measures movement by analysing surface patterns. It is widely used in robotics, drones, and automation to estimate position changes without GPS. This makes it an excellent choice for applications requiring precise motion tracking. In this guide, we will explore the PMW3901 sensor, its specifications, and how to interface it with ESP32.
 <p>
+  
   [Note: As these projects are very simple, we are only providing the code, schematic, and a few essential images. If you want to get the images or code explanations, do check out the Circuit Digest website.]
+  
 </p>
